@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 <!--
 **eun0214/eun0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
