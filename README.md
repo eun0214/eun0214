@@ -4,8 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ## My plant
-pip install -r requirements.txt
-uvicorn main:app --reload
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={les4521}&theme=warm)
 <img src="http://mazandi.herokuapp.com/api?handle={les4521}&theme=warm"/>
 <!--
