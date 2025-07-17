@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### 🙌 Self-Introduction
-전자공학을 전공했으며 임베디드 분야에 관심이 있습니다.\n 
-방산, 모빌리티 분야로 취업을 준비하고 있습니다.
+- 전자공학을 전공했으며 임베디드 분야에 관심이 있습니다.
+- 방산, 모빌리티 분야로 취업을 준비하고 있습니다.
 
 ### ✏ Studying
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
