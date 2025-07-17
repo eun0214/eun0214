@@ -1,13 +1,14 @@
 ## Hi there 👋
 
-### Self-Introduction
+### 🙌 Self-Introduction
+전자공학을 전공했으며 임베디드 분야에 관심이 있습니다. 
+방산, 모빌리티 분야로 취업을 준비하고 있습니다.
 
-
-### Studying
+### ✏ Studying
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black)
 
-## My grass
+### 🌱 My grass
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={les4521}&theme=warm)
 <img src="http://mazandi.herokuapp.com/api?handle={les4521}&theme=warm"/>
 <!--
