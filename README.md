@@ -1,9 +1,12 @@
 ## Hi there 👋
 
+### Self-Introduction
+
+
 ### Studying
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
-## My plant
+## My grass
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={les4521}&theme=warm)
 <img src="http://mazandi.herokuapp.com/api?handle={les4521}&theme=warm"/>
 <!--
